@@ -13,7 +13,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Hello, world! Build stage radi...'
+                echo 'Hello, world! Build stage radi necega...'
             }
         }
 
